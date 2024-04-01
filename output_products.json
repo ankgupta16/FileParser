@@ -1,0 +1,32 @@
+[
+    {
+        "ProductID": "12345",
+        "Name": "Product Name",
+        "Price": "$19.99",
+        "InStock": "Yes"
+    },
+    {
+        "ProductID": "12345",
+        "Name": "12",
+        "Price": "$19.99",
+        "InStock": "Yes"
+    },
+    {
+        "ProductID": "abc",
+        "Name": "",
+        "Price": "",
+        "InStock": ""
+    },
+    {
+        "ProductID": "ghi",
+        "Name": "Product2",
+        "Price": "",
+        "InStock": ""
+    },
+    {
+        "ProductID": "xyz",
+        "Name": "Product3",
+        "Price": "20",
+        "InStock": ""
+    }
+]
