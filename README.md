@@ -2,7 +2,8 @@
 FileParser project is an implementation of a Python script that reads product information from a text file and a CSV file, merges the data, and outputs the result to the console and a JSON file.
 
 To run the provided code, follow these steps:
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine.  
+	https://github.com/ankgupta16/FileParser.git
 2. Navigate to the directory containing the Python script and input files.
 3. go to the project directory  
    cd FileParser
